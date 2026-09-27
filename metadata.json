@@ -1,0 +1,6 @@
+{
+  "name": "Gordon",
+  "description": "A 3D first-person horror game featuring a title screen with music, rebindable controls, Jeff's voiced narrative, and an abandoned amusement park guarded by a tall teal fork mascot.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
